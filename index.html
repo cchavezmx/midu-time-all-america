@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+    <title>Midu Times 📅</title>
+    <script type="module" src="/main.js" defer></script>
+  </head>
+  <body>
+    <main class="container toast">
+      <wc-toast></wc-toast>
+      <h1>Midu Time</h1>
+      <form>
+        <label>
+          Seleciona una fecha y una hora
+          <input name="date" type="datetime-local" value="2022-09-13T17:00" />
+        </label>
+        <!-- <button>
+          Convertir Fecha y hora
+        </button> -->
+      </form>
+      <textarea row="30" cols="20" id="result" readonly placeholder="Aquí tendrás el resultado...."></textarea>
+      <span id="root"></span>
+    </main>
+  </body>
+</html>

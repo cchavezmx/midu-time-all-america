@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Mexico",
+    "dial_code": "+52",
+    "country_code": "MX",
+    "emoji": "🇲🇽",
+    "emoji_unicode": "U+1F1F2 U+1F1FD",
+    "emoji_svg_url": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg",
+    "timezones": [
+      "America/Mexico_City",
+      "America/Cancun",
+      "America/Merida",
+      "America/Monterrey",
+      "America/Matamoros",
+      "America/Mazatlan",
+      "America/Chihuahua",
+      "America/Ojinaga",
+      "America/Hermosillo",
+      "America/Tijuana",
+      "America/Bahia_Banderas"
+    ],
+    "latlng": [
+      23,
+      -102
+    ],
+    "capital": "Mexico City",
+    "currency_code": "MXN",
+    "continent": "North America"
+  },
+  {
+    "name": "Spain",
+    "dial_code": "+34",
+    "country_code": "ES",
+    "emoji": "🇪🇸",
+    "emoji_unicode": "U+1F1EA U+1F1F8",
+    "emoji_svg_url": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg",
+    "timezones": [
+      "Europe/Madrid",
+      "Africa/Ceuta",
+      "Atlantic/Canary"
+    ],
+    "latlng": [
+      40,
+      -4
+    ],
+    "capital": "Madrid",
+    "currency_code": "EUR",
+    "continent": "Europe"
+  },
+  {
+    "name": "Argentina",
+    "dial_code": "+54",
+    "country_code": "AR",
+    "emoji": "🇦🇷",
+    "emoji_unicode": "U+1F1E6 U+1F1F7",
+    "emoji_svg_url": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg",
+    "timezones": [
+      "America/Argentina/Buenos_Aires",
+      "America/Argentina/Cordoba",
+      "America/Argentina/Salta",
+      "America/Argentina/Jujuy",
+      "America/Argentina/Tucuman",
+      "America/Argentina/Catamarca",
+      "America/Argentina/La_Rioja",
+      "America/Argentina/San_Juan",
+      "America/Argentina/Mendoza",
+      "America/Argentina/San_Luis",
+      "America/Argentina/Rio_Gallegos",
+      "America/Argentina/Ushuaia"
+    ],
+    "latlng": [
+      -34,
+      -64
+    ],
+    "capital": "Buenos Aires",
+    "currency_code": "ARS",
+    "continent": "South America"
+  }
+]
